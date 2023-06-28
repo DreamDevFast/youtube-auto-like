@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/sponsors/melchisedech333"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
+    <a href="https://github.com/sponsors/dreamdevfast"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
     <br><br>
     <img src="https://badgen.net/badge/love level/8 of 10/purple" >
     <img src="https://img.shields.io/github/languages/count/melchisedech333/youtube-auto-like?color=%23f34b7d" >
